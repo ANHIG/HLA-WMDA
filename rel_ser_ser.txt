@@ -1,5 +1,5 @@
 # file: rel_ser_ser.txt
-# date: 2013-01-18
+# date: 2013-04-17
 # origin: http://hla.alleles.org/wmda/rel_ser_ser.txt
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
 A;2;;203/210
