@@ -1,5 +1,5 @@
-01564bf7601f0e260094f2017fdeb112  hla_nom.txt
-a0018502da4fbb37e0e0d4f71d266a31  hla_nom_g.txt
-a7e407b2c0461e9a8d92b11f2375a8a3  hla_nom_p.txt
-192db0a47602ea71e1d012fb05832b1c  rel_dna_ser.txt
-3a4b81c23f2d1620fbf5b2fc254ccdfc  rel_ser_ser.txt
+a244b1f6fd16a94f1d4cb075c0d053ee  hla_nom.txt
+42fea30a345b38cebbd7bc117e1a5feb  hla_nom_g.txt
+b1eb7ebe7bf64e4a709f91e9e1958aee  hla_nom_p.txt
+7351d62a12931753e5c0c34867f10be4  rel_dna_ser.txt
+ceb24568e0b5ec3169a6bf3d38ceeae7  rel_ser_ser.txt
