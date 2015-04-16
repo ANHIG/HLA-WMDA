@@ -1,5 +1,5 @@
 # file: rel_dna_ser.txt
-# date: 2015-01-19
+# date: 2015-01-17
 # origin: http://hla.alleles.org/wmda/rel_dna_ser.txt
 # author: WHO, Steven G. E. Marsh (steven.marsh@ucl.ac.uk)
 A*;01:01:01:01;1;;;
