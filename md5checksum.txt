@@ -2,7 +2,6 @@
 ce52570ccd4265650adacdb18532c62b  hla_nom.txt
 61e7d0de590d22a2df6f7cc0e478f170  hla_nom_g.txt
 ddbe531e566889413f1abdeddf153cc9  hla_nom_p.txt
-d41d8cd98f00b204e9800998ecf8427e  md5checksum.txt
 7b18f2bc5e4495af821e0732baadfc6a  rel_dna_ser.txt
 66df99521e1bc16e889d87fbe876cf6f  rel_ser_ser.txt
 b9829625d793b360ac3c5377b2f8e2f6  wmda_300.zip
@@ -20,7 +19,7 @@ e253af4864ca656bf78315d9051ad795  wmda_3160.zip
 aac4de27ed41a20c24509a7c1c9d99a2  wmda_320.zip
 e5d30384c3c90368130b6bbd6be32e80  wmda_3200.zip
 20881379d50c1cde247360acd8813928  wmda_3210.zip
-958c1bf164534c7b0add478b52be60ff  wmda_3220.zip
+fcb220ae227920403e0cfea74ddf8a52  wmda_3220.zip
 62a313037a50f69ce9ce22fec976bdcf  wmda_330.zip
 0a0c4015c0ec0dd11d61a231f9fbdf0b  wmda_340.zip
 cb2891daabc8c978e8fb1d18a744bf10  wmda_350.zip
